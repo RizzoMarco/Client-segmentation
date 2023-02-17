@@ -4,7 +4,7 @@ Hello World! :wave:
 
 This is the README of the final project of the Fintech Course (Academic Year 2021/2022).
 
-## HOW TO NAVIGATE THIS SEA OF DOCUMENTS  :ocean:
+## How to navigate this sea of documents :ocean:
 
   The project was carried out using two programming languages: R and Matlab. This is the content of the documents we have attached:
 
@@ -42,7 +42,7 @@ This is the README of the final project of the Fintech Course (Academic Year 202
 
 
 
-## Team Members
+## Team members
  * [R. Aitkaliyev]()  
  * [A. Frabetti](https://github.com/ale1998bo)      
  * [A. Iacovelli]()     
