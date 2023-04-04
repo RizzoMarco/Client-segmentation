@@ -1,4 +1,4 @@
-# Client-segmentation-Fintech
+# Client segmentation - Fintech
 
 Hello World! :wave:
 
